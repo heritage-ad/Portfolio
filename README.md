@@ -18,5 +18,5 @@ I’m a **data analyst** with expertise in **R, SQL, and project management**. M
 
 💼 Open to opportunities in **data analytics, business intelligence, and tech consulting**.
 
-📩 Connect with me on **[LinkedIn]([https://www.linkedin.com/in/heritage-adigun/])** or check out my **[GitHub Projects]([https://github.com/heritage-ad])**.
+📩 Connect with me on **[LinkedIn][https://www.linkedin.com/in/heritage-adigun/]** or check out my **[GitHub Projects][https://github.com/heritage-ad]**.
 

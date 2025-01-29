@@ -10,6 +10,19 @@ Welcome to my portfolio! Here, you'll find projects showcasing my skills in **R,
 - **Tools Used:** R (tidyverse, ggplot2)
 - **[View Full Report](./Bellabeat-Case-Study/Bellabeat_Time.pdf)**
 
+### 📊 Amazon Bestsellers Analysis Dashboard
+
+- **Objective:** Analyzed Amazon bestsellers from 2009–2019 to uncover trends in genres, pricing, and user ratings.
+- **Key Insights:**
+  - Non-Fiction books dominated sales during the decade, peaking in 2015.
+  - Higher-priced books tend to have higher user ratings, especially in Non-Fiction.
+  - "Publication Manual of the APA" appeared most frequently on the bestseller list.
+- **Tools Used:** Tableau
+
+[🔗 View Interactive Dashboard](https://public.tableau.com/views/AmazonBestsellersAnalysis/AmazonBestsellersDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Dashboard Preview](amazon-bestsellers-dashboard.png)
+
 
 ---
 

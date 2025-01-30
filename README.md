@@ -23,6 +23,19 @@ Welcome to my portfolio! Here, you'll find projects showcasing my skills in **R,
 
 ![Dashboard Preview](amazon-bestsellers-dashboard.png)
 
+### 📊 Superstore Sales Insights Dashboard
+
+- **Objective:** Analyzed Superstore sales data to uncover regional and product category trends, as well as monthly performance.
+- **Key Insights:**
+  - The Central region has the highest total sales but lower profit margins compared to other regions.
+  - Technology leads in both sales and profit across all categories.
+  - Sales peak in December, with consistent growth throughout the year.
+- **Tools Used:** Tableau
+
+[🔗 View Interactive Dashboard](https://public.tableau.com/views/SuperstoreSalesInsightsDashboard_17382637599360/BusinessIntelligenceDashboardSuperstoreSalesInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Dashboard Preview](superstore-dashboard.png)
+
 
 ---
 
